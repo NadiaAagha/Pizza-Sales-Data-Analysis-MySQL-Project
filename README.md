@@ -45,20 +45,19 @@ The goal of this project is to:
 
 ##  SQL Queries Included
 All queries are available in 
-- [01_total_orders.sql](./queries/01_total_orders.sql)  
-- [02_total_revenue.sql](./queries/02_total_revenue.sql)  
-- [03_highest_priced_pizza.sql](./queries/03_highest_priced_pizza.sql)  
-- [04_most_common_pizza_size.sql](./queries/04_most_common_pizza_size.sql)  
-- [05_top5_most_ordered_pizzas.sql](./queries/05_top5_most_ordered_pizzas.sql)
-- [06_total_quantity_by_category.sql](./queries/06_total_quantity_by_category.sql)  
-- [07_orders_distribution_by_hour.sql](./queries/07_orders_distribution_by_hour.sql)  
-- [08_category_wise_distribution.sql](./queries/08_category_wise_distribution.sql)  
-- [09_avg_pizzas_per_day.sql](./queries/09_avg_pizzas_per_day.sql)  
-- [10_top3_pizzas_by_revenue.sql](./queries/10_top3_pizzas_by_revenue.sql)
-- [11_percentage_contribution_by_pizza.sql](./queries/11_percentage_contribution_by_pizza.sql)  
-- [12_cumulative_revenue_over_time.sql](./queries/12_cumulative_revenue_over_time.sql)  
-- [13_top3_pizzas_by_revenue_each_category.sql](./queries/13_top3_pizzas_by_revenue_each_category.sql)  
-
+- [01_total_orders.sql](./01_total_orders.sql)  
+- [02_total_revenue.sql](./02_total_revenue.sql)  
+- [03_highest_priced_pizza.sql](./03_highest_priced_pizza.sql)  
+- [04_most_common_pizza_size.sql](./04_most_common_pizza_size.sql)  
+- [05_top5_most_ordered_pizzas.sql](./05_top5_most_ordered_pizzas.sql)
+- [06_total_quantity_by_category.sql](./06_total_quantity_by_category.sql)  
+- [07_orders_distribution_by_hour.sql](./07_orders_distribution_by_hour.sql)  
+- [08_category_wise_distribution.sql](./08_category_wise_distribution.sql)  
+- [09_avg_pizzas_per_day.sql](./09_avg_pizzas_per_day.sql)  
+- [10_top3_pizzas_by_revenue.sql](./10_top3_pizzas_by_revenue.sql)  
+- [11_percentage_contribution_by_pizza.sql](./11_percentage_contribution_by_pizza.sql)  
+- [12_cumulative_revenue_over_time.sql](./12_cumulative_revenue_over_time.sql)  
+- [13_top3_pizzas_by_revenue_each_category.sql](./13_top3_pizzas_by_revenue_each_category.sql)  
 ---
 
 ##  Skills Demonstrated
